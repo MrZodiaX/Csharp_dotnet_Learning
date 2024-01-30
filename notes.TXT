@@ -1,0 +1,28 @@
+c# (or f#, VB) compiles to msil(microsoft intermediate language)
+	benifit - c# 4,5,6.. can compile on same runtime 
+
+MSIL -> .net Runtime -> windows/linux (.net runtime are cross platform )
+
+base class library provided, for basic functions , dates, math, files etc. 
+
+use third party library using nuget 
+
+C:\Windows\Microsoft.NET\Framework64\v3.5\csc.exe /out:lol.dll /target:library lol.cs
+makes it dll, without parameters makes exe 
+
+if we have 2 files,a and b, a having namespace for b, need to compile bot : 
+csc a.cs b.cs /out:hello.exe /target.exe
+
+basic : 
+using System;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
