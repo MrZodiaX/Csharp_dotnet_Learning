@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dfghj", "ConsoleApp1\dfghj.csproj", "{2B0F0DE4-E6E7-478F-9B70-E7F6150772A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B0F0DE4-E6E7-478F-9B70-E7F6150772A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0F0DE4-E6E7-478F-9B70-E7F6150772A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0F0DE4-E6E7-478F-9B70-E7F6150772A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0F0DE4-E6E7-478F-9B70-E7F6150772A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF895185-61D5-441C-81CB-4EEE8EF9F6F4}
+	EndGlobalSection
+EndGlobal

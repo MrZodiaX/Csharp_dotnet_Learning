@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AfMyQ9O375KP6DOTwW09zleCYTxRW6BbXH6oy/WgL2NXpRwH7DQxQiYF89HZZN2YqpS5u4MN/YF8H/vihmCFsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s19.singh\\Downloads\\Ex_Files_C_Sharp_EssT_1\\Exercise Files\\CH02\\05\\Begin\\LinkedIn.Essentials\\LinkedIn.Essentials\\LinkedIn.Essentials.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://168.219.243.73/TRUNK2022/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

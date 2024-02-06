@@ -1,0 +1,15 @@
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\bin\Debug\net6.0\LinkedIn.Essentials.exe
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\bin\Debug\net6.0\LinkedIn.Essentials.deps.json
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\bin\Debug\net6.0\LinkedIn.Essentials.runtimeconfig.json
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\bin\Debug\net6.0\LinkedIn.Essentials.dll
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\bin\Debug\net6.0\LinkedIn.Essentials.pdb
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\obj\Debug\net6.0\LinkedIn.Essentials.csproj.AssemblyReference.cache
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\obj\Debug\net6.0\LinkedIn.Essentials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\obj\Debug\net6.0\LinkedIn.Essentials.AssemblyInfoInputs.cache
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\obj\Debug\net6.0\LinkedIn.Essentials.AssemblyInfo.cs
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\obj\Debug\net6.0\LinkedIn.Essentials.csproj.CoreCompileInputs.cache
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\obj\Debug\net6.0\LinkedIn.Essentials.dll
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\obj\Debug\net6.0\refint\LinkedIn.Essentials.dll
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\obj\Debug\net6.0\LinkedIn.Essentials.pdb
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\obj\Debug\net6.0\LinkedIn.Essentials.genruntimeconfig.cache
+C:\Users\s19.singh\Downloads\Ex_Files_C_Sharp_EssT_1\Exercise Files\CH02\05\Begin\LinkedIn.Essentials\LinkedIn.Essentials\obj\Debug\net6.0\ref\LinkedIn.Essentials.dll

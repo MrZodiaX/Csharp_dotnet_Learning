@@ -1,0 +1,15 @@
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\dfghj.exe
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\dfghj.deps.json
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\dfghj.runtimeconfig.json
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\dfghj.dll
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\dfghj.pdb
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\dfghj.csproj.AssemblyReference.cache
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\dfghj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\dfghj.AssemblyInfoInputs.cache
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\dfghj.AssemblyInfo.cs
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\dfghj.csproj.CoreCompileInputs.cache
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\dfghj.dll
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\dfghj.dll
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\dfghj.pdb
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\dfghj.genruntimeconfig.cache
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\dfghj.dll

@@ -1,0 +1,15 @@
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\var_types.exe
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\var_types.deps.json
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\var_types.runtimeconfig.json
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\var_types.dll
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\var_types.pdb
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\var_types.csproj.AssemblyReference.cache
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\var_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\var_types.AssemblyInfoInputs.cache
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\var_types.AssemblyInfo.cs
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\var_types.csproj.CoreCompileInputs.cache
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\var_types.dll
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\var_types.dll
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\var_types.pdb
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\var_types.genruntimeconfig.cache
+C:\Users\s19.singh\Desktop\Csharp_dotnet_Learning\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\var_types.dll

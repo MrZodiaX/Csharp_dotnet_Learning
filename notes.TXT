@@ -26,3 +26,41 @@ namespace MyApp // Note: actual namespace depends on the project name.
         }
     }
 }
+
+
+
+// want to use namespace as
+using name1 = namespace1
+{
+	name1.method()
+}
+
+ //access modifier is internal by default 
+ 
+ An interface is a completely "abstract class", which can only contain abstract methods and properties (with empty bodies)
+ 
+ 
+top level class: internal
+method: private
+members (unless an interface or enum): private (including nested classes)
+members (of interface or enum): public
+constructor: private (note that if no constructor is explicitly defined, a public default constructor will be automatically defined)
+delegate: internal
+interface: internal
+explicitly implemented interface member: public!
+
+public : everywhere 
+internal : same assembly 
+protected: derived class
+private : same class 
+ 
+ //SHORTCUPT 
+ 
+ ctr k+c : comment 
+ ctr k+u : uncomment
+ 
+ ctrl M+O  => collapse all members 
+ 
+ ctrl M+L  => set all regions to same colpase/expalnded state TOGGLE
+ 
+ ctrl M+M  => toggle current section 
