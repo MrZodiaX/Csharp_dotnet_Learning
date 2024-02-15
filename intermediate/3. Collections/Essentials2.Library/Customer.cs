@@ -23,10 +23,5 @@ namespace Essentials2.Library
 
             return 1;
         }
-
-        public T Map<T>(IMapper<Customer, T> mapper)
-        {
-            return mapper.Map(this);
-        }
     }
 }

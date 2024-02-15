@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "siQswxYNJATZ//goe0fwsXjmE6iCmBJOY+AkRiF/AiRIly1hl4Cohd8v0IbkrSd4vFY5hQ21m2bzkHerD9YWOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s19.singh\\Documents\\Csharp_dotnet_Learning\\advance\\1. Threading\\Essentials2.Library\\Essentials2.Library.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://168.219.243.73/ONEMAIN/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://168.219.243.73/TRUNK2023/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://168.219.243.73/TRUNK2022/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

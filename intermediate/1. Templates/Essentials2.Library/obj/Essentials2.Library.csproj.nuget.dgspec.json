@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s19.singh\\Desktop\\Csharp_dotnet_Learning\\intermediate\\1. Templates\\Essentials2.Library\\Essentials2.Library.csproj": {}
+    "C:\\Users\\s19.singh\\Documents\\Csharp_dotnet_Learning\\intermediate\\1. Templates\\Essentials2.Library\\Essentials2.Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s19.singh\\Desktop\\Csharp_dotnet_Learning\\intermediate\\1. Templates\\Essentials2.Library\\Essentials2.Library.csproj": {
+    "C:\\Users\\s19.singh\\Documents\\Csharp_dotnet_Learning\\intermediate\\1. Templates\\Essentials2.Library\\Essentials2.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s19.singh\\Desktop\\Csharp_dotnet_Learning\\intermediate\\1. Templates\\Essentials2.Library\\Essentials2.Library.csproj",
+        "projectUniqueName": "C:\\Users\\s19.singh\\Documents\\Csharp_dotnet_Learning\\intermediate\\1. Templates\\Essentials2.Library\\Essentials2.Library.csproj",
         "projectName": "Essentials2.Library",
-        "projectPath": "C:\\Users\\s19.singh\\Desktop\\Csharp_dotnet_Learning\\intermediate\\1. Templates\\Essentials2.Library\\Essentials2.Library.csproj",
+        "projectPath": "C:\\Users\\s19.singh\\Documents\\Csharp_dotnet_Learning\\intermediate\\1. Templates\\Essentials2.Library\\Essentials2.Library.csproj",
         "packagesPath": "C:\\Users\\s19.singh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s19.singh\\Desktop\\Csharp_dotnet_Learning\\intermediate\\1. Templates\\Essentials2.Library\\obj\\",
+        "outputPath": "C:\\Users\\s19.singh\\Documents\\Csharp_dotnet_Learning\\intermediate\\1. Templates\\Essentials2.Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s19.singh\\AppData\\Roaming\\NuGet\\NuGet.Config",

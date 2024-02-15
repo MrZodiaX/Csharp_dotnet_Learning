@@ -22,8 +22,15 @@ void collectionBasics()
     }
 }
 
-//collectionBasics();
+collectionBasics();
 
-CollectionSamples.Queue_lol();
-CollectionSamples.Stack_lol();
+//CollectionSamples.Queue_lol();
+//CollectionSamples.Stack_lol();
+
+//CollectionSamples.Indexing();
+//CollectionSamples.Iterating();  //reverse sort inumerator 
+
+//CollectionSamples.Dictionary();
+//CollectionSamples.NameValueCollection();
+//CollectionSamples.Concurent();
 
