@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4E4Dqc5Yfn/bwoCqXbKUSvlN74US9ErXRTNjoiXJ77ql55qsnrtdt5xso7mM0KL3tcghFlaCCyylVE0kF6Tamw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shant\\OneDrive\\Documents\\Csharp_dotnet_Learning\\advance\\2. Delegates\\LinkedIn.Essentials2\\LinkedIn.Essentials2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shant\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\shant\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\shant\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\shant\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
